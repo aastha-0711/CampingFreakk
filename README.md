@@ -9,7 +9,7 @@ YelpCamp is a full-stack web application where users can explore, buy, sell and 
 > Replace `images/filename.png` with your actual image paths from your GitHub repo.
 
 ### 🏠 Homepage
-![Homepage](images/Screenshot%2025-06-30%021649.png)
+![Homepage](images/Screenshot%202025-06-30%20021649.png)
 
 ### 🔐 Login / Signup
 ![Login Page](images/Screenshot%202025-06-30%20021804.png)
@@ -21,11 +21,11 @@ YelpCamp is a full-stack web application where users can explore, buy, sell and 
 
 ### 🌍 Campground Detail with Map
 > View interactive map via MapTiler + see all details
-![Campground Detail](images/Screenshot%2025-06-30%021706.png)
+![Campground Detail](images/Screenshot%202025-06-30%20021706.png)
 
 ### 🌟 Reviews and Contact
 > Leave reviews with star ratings and contact the owner
-![Reviews](images/Screenshot%2025-06-30%021738.png)
+![Reviews](images/Screenshot%202025-06-30%20021738.png)
 
 ---
 
