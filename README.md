@@ -1,6 +1,6 @@
 # 🏕️ YelpCamp - Campground Booking Platform
 
-YelpCamp is a full-stack web application where users can explore, create, and review campgrounds across the globe. The app features campground listings with interactive maps, user authentication, reviews with star ratings, and the ability to contact campground owners.
+YelpCamp is a full-stack web application where users can explore, buy, sell and review properties across the globe. The app features campground listings with interactive maps, user authentication, reviews with star ratings, and the ability to contact property owners.
 
 ---
 
@@ -9,37 +9,23 @@ YelpCamp is a full-stack web application where users can explore, create, and re
 > Replace `images/filename.png` with your actual image paths from your GitHub repo.
 
 ### 🏠 Homepage
-![Homepage](images/homepage.png)
+![Homepage](images/Screenshot%2025-06-30%021649.png)
 
-### 🔐 Login / Logout
-![Login Page](images/login.png)
-![Logout](images/logout.png)
+### 🔐 Login / Signup
+![Login Page](images/Screenshot%202025-06-30%20021804.png)
+![Signup](images/Screenshot%2025-06-30%021750.png)
 
 ### ➕ Add New Campground
 > Add name, image, location, price, and description
-![Add Campground](images/add-campground.png)
+![Add Campground](images/Screenshot%2025-06-30%021750.png)
 
 ### 🌍 Campground Detail with Map
 > View interactive map via MapTiler + see all details
-![Campground Detail](images/campground-map.png)
+![Campground Detail](images/Screenshot%2025-06-30%021706.png)
 
 ### 🌟 Reviews and Contact
 > Leave reviews with star ratings and contact the owner
-![Reviews](images/reviews.png)
-
----
-
-## 🛠️ Tech Stack
-
-| Feature               | Technology Used                   |
-|----------------------|------------------------------------|
-| Frontend             | HTML, CSS, EJS                     |
-| Backend              | Node.js, Express.js                |
-| Database             | MongoDB (Mongoose)                 |
-| Authentication       | Passport.js                        |
-| Mapping              | MapTiler API                       |
-| Geocoding            | MapTiler Geocoding API             |
-| Image Uploads        | Multer + Cloudinary (optional)     |
+![Reviews](images/Screenshot%2025-06-30%021738.png)
 
 ---
 
