@@ -6,28 +6,43 @@ YelpCamp is a full-stack web application where users can explore, buy, sell and 
 
 ## 📸 Screenshots
 
-> Replace `images/filename.png` with your actual image paths from your GitHub repo.
+### 🏠 Homepage  
+Browse featured campgrounds with intuitive UI.
 
-### 🏠 Homepage
 ![Homepage](images/Screenshot%202025-06-30%20021649.png)
 
-### 🔐 Login / Signup
-![Login Page](images/Screenshot%202025-06-30%20021804.png)
-![Signup](images/Screenshot%2025-06-30%021750.png)
+---
 
-### ➕ Add New Campground
-> Add name, image, location, price, and description
+### 🔐 Login / Signup  
+Secure user login and registration system.
+
+![Login Page](images/Screenshot%202025-06-30%20021804.png)
+
+![Signup](images/Screenshot%202025-06-30%20021814.png)
+
+---
+
+### ➕ Add New Campground  
+Add name, image, location, price, and description.
+
 ![Add Campground](images/Screenshot%202025-06-30%20021632.png)
 
-### 🌍 Campground Detail with Map
-> View interactive map via MapTiler + see all details
+---
+
+### 🌍 Campground Detail with Map  
+View interactive location using **MapTiler** and explore full campground details.
+
 ![Campground Detail](images/Screenshot%202025-06-30%20021706.png)
 
-### 🌟 Reviews and Contact
-> Leave reviews with star ratings and contact the owner
+---
+
+### 🌟 Reviews and Contact  
+Leave reviews with star ratings and get in touch with campground owners.
+
 ![Reviews](images/Screenshot%202025-06-30%20021738.png)
 
 ---
+
 
 ## 🌟 Key Features
 
