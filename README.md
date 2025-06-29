@@ -17,7 +17,7 @@ YelpCamp is a full-stack web application where users can explore, buy, sell and 
 
 ### ➕ Add New Campground
 > Add name, image, location, price, and description
-![Add Campground](images/Screenshot%2025-06-30%021750.png)
+![Add Campground](images/Screenshot%202025-06-30%20021632.png)
 
 ### 🌍 Campground Detail with Map
 > View interactive map via MapTiler + see all details
