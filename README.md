@@ -4,7 +4,7 @@ YelpCamp is a full-stack web application where users can explore, buy, sell and 
 
 ---
 
-## 📸 Screenshots
+## 📸 Images
 
 ### 🏠 Homepage  
 Browse featured campgrounds with intuitive UI.
